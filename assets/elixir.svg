@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="102.5"
+    height="28" role="img" aria-label="ELIXIR">
+    <title>ELIXIR</title>
+    <g shape-rendering="geometricPrecision">
+        <rect x="22" width="80.5" height="28" fill="#222" rx="3" ry="3" />
+        <rect width="32" height="28" fill="#9da1a6" rx="3" ry="3" />
+    </g>
+    <g fill="#fff" text-anchor="middle" font-family="Verdana,Geneva,DejaVu Sans,sans-serif"
+        text-rendering="geometricPrecision" font-size="100">
+        <image x="7" y="5" width="18" height="18"
+            xlink:href="data:image/svg+xml;base64,PHN2ZyBmaWxsPSIjNGIyNzVmIiByb2xlPSJpbWciIHZpZXdCb3g9IjAgMCAyNCAyNCIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj48dGl0bGU+RWxpeGlyPC90aXRsZT48cGF0aCBkPSJNMTkuNzkzIDE2LjU3NWMwIDMuNzUyLTIuOTI3IDcuNDI2LTcuNzQzIDcuNDI2LTUuMjQ5IDAtNy44NDMtMy43MS03Ljg0My04LjI5IDAtNS4yMSAzLjg5Mi0xMi45NTIgOC0xNS42NDdhLjM5Ny4zOTcgMCAwIDEgLjYxLjM3MSA5LjcxNiA5LjcxNiAwIDAgMCAxLjY5NCA2LjUxOGMuNTIyLjc5NSAxLjA5MiAxLjQ3OCAxLjc2MyAyLjM1Mi45NCAxLjIyNyAxLjYzNyAxLjkwNiAyLjY0NCAzLjg0MmwuMDE1LjAyOGE3LjEwNyA3LjEwNyAwIDAgMSAuODYgMy40eiIvPjwvc3ZnPg==" />
+        <text transform="scale(.1)" x="672.5" y="175" textLength="465" fill="#fff"
+            font-weight="bold">ELIXIR</text>
+    </g>
+</svg>
