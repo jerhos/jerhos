@@ -1,8 +1,8 @@
-<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="91"
-    height="28" role="img" aria-label="RUBY">
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="91.5"
+    height="28.5" role="img" aria-label="RUBY">
     <title>RUBY</title>
     <g shape-rendering="geometricPrecision">
-        <rect x="22" width="69" height="28" fill="#222" rx="3" ry="3" />
+        <rect x="22" width="69" height="28" fill="#252B30" rx="3" ry="3" stroke="#21272B" stroke-width="0.5" />
         <rect width="32" height="28" fill="#585450" rx="3" ry="3" />
     </g>
     <g fill="#fff" text-anchor="middle" font-family="Verdana,Geneva,DejaVu Sans,sans-serif"

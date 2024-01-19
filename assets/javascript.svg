@@ -1,8 +1,8 @@
-<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="138.5"
-    height="28" role="img" aria-label="JAVASCRIPT">
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="139"
+    height="28.5" role="img" aria-label="JAVASCRIPT">
     <title>JAVASCRIPT</title>
     <g shape-rendering="geometricPrecision">
-        <rect x="22" width="116.5" height="28" fill="#222" rx="3" ry="3" />
+        <rect x="22" width="116.5" height="28" fill="#252B30" rx="3" ry="3" stroke="#21272B" stroke-width="0.5" />
         <rect width="32" height="28" fill="#ead64c" rx="3" ry="3" />
     </g>
     <g fill="#fff" text-anchor="middle" font-family="Verdana,Geneva,DejaVu Sans,sans-serif"
