@@ -1,26 +1,21 @@
-# (☉ ‿ ⚆) Hello there.
+# Hi there 👋
 
-### I can
+I'm currently studying media informatics ⦅B.Sc.) at [HFU](https://www.hs-furtwangen.de/).
+I like to do a lot of different things, but my biggest interests in software development are the development for native desktop apps, graphics and ai.
 
-![Markdown Badge](assets/markdown.svg)
-![AutoHotkey Badge](assets/autohotkey.svg)
+### I already can
 ![Java Badge](assets/java.svg)
-![TypeScript Badge](assets/typescript.svg)
-![CSS Badge](assets/css.svg)
 ![Python Badge](assets/python.svg)
 ![PHP Badge](assets/php.svg)
-![SCSS Badge](assets/scss.svg)
-![HTML Badge](assets/html.svg)
+![TypeScript Badge](assets/typescript.svg)
 ![Javascript Badge](assets/javascript.svg)
 
-### Currently learning
-
+### I'm currently learning
 ![Rust Badge](assets/rust.svg)
-![GLSL Badge](assets/glsl.svg)
 ![C# Badge](assets/csharp.svg)
+![GLSL Badge](assets/glsl.svg)
 
-### Bucket list
-
+### On my bucketlist is
 ![AssemblyScript Badge](assets/assemblyscript.svg)
 ![C Badge](assets/c.svg)
 ![C++ Badge](assets/cplusplus.svg)
