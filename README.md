@@ -14,12 +14,12 @@ I like to do a lot of different things, but some of my bigger interests lie in t
 
 ### I'm currently learning
 ![Rust Badge](assets/rust.svg)
+![C++ Badge](assets/cplusplus.svg)
 ![C# Badge](assets/csharp.svg)
 ![GLSL Badge](assets/glsl.svg)
 
 ### On my bucketlist is
 ![C Badge](assets/c.svg)
-![C++ Badge](assets/cplusplus.svg)
 ![AssemblyScript Badge](assets/assemblyscript.svg)
 ![Scala Badge](assets/scala.svg)
 ![Ruby Badge](assets/ruby.svg)
